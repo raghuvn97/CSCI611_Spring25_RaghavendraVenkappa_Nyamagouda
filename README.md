@@ -7,3 +7,5 @@ Requirements:
 Python 3.x
 PyTorch
 
+Report for the CNN MODEL Has been added as a Markdown in the build_cnn.ipynb at the end of the file.
+
