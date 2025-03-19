@@ -1,0 +1,12 @@
+train: ../datasets/train/images  # Path to the training images
+val: ../datasets/valid/images      # Path to the validation images
+
+# Number of classes
+nc: 4
+
+# Class names
+names:
+  0: Trafic Light
+  1: Speedlimit
+  2: Crosswalk
+  3: Stop
