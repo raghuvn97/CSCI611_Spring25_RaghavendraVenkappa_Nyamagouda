@@ -1,4 +1,4 @@
-Trained YOLO Model: Provided in repository. Also can be accessed with this google drive link https://drive.google.com/drive/folders/1R9E1TX6_YySm6gR3o59tL8QMDHzV4VhK?usp=sharing
-Annotated Dataset Samples: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection.
-Annotated Dataset conversion code: Java Code added to the GitHub to convert xml annotation to YOLO Format labels
-Detection Results: Screenshots and analysis available in the report.
+- Trained YOLO Model: Provided in repository. Also can be accessed with this google drive link https://drive.google.com/drive/folders/1R9E1TX6_YySm6gR3o59tL8QMDHzV4VhK?usp=sharing
+- Annotated Dataset Samples: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection.
+- Annotated Dataset conversion code: Java Code added to the GitHub to convert xml annotation to YOLO Format labels
+- Detection Results: Screenshots and analysis available in the report.
