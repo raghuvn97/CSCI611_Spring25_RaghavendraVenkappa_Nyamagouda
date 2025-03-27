@@ -1,4 +1,7 @@
-- Trained YOLO Model: Provided in repository partial due to push restrictions. The entire code can be accessed with this google drive link https://drive.google.com/drive/folders/1R9E1TX6_YySm6gR3o59tL8QMDHzV4VhK?usp=sharing
+- Steps to Run the code
+  - Download the entire code from Google Drive and open the ipynb file in the Jupyter Notebook.
+  - Edit the device parameters based on the availability of GPU or CPU. Later, run the cells for each model training parameter.
+- Trained YOLO Model: Provided in repository partial due to push restrictions. The entire code can be accessed with this Google Drive link https://drive.google.com/drive/folders/1R9E1TX6_YySm6gR3o59tL8QMDHzV4VhK?usp=sharing
 - Annotated Dataset Samples: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection.
-- Annotated Dataset conversion code: Java Code added to the GitHub to convert xml annotation to YOLO Format labels
-- Detection Results: Screenshots and analysis available in the report.
+- Annotated Dataset conversion code: Java Code added to the GitHub to convert XML annotation to YOLO Format labels
+- Detection Results: Screenshots and analysis are available in the report as a Markdown.
